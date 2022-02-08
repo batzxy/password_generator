@@ -1,4 +1,4 @@
-# rust_password_generator
+# password_generator
 Simple password generator in Rust.
 Since this project is shifted from Python3, I have posted the Python3 version of the code for future purposes.
 ```
